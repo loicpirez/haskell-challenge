@@ -1,1 +1,4 @@
-# my-project
+# Haskell Challenge
+
+## Work in progress
+
